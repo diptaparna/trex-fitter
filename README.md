@@ -1,5 +1,9 @@
 # TRExFitter
 
+<p align="center">
+  <img src="assets/TRExFitter_logo.png" alt="TRExFitter Logo" width="320"/>
+</p>
+
 Build, validate, run, and diagnose **HistFactory / xRooFit binned profile likelihood fits** in High Energy Physics (HEP) using [`TRExFitter`](https://gitlab.cern.ch/TRExStats/TRExFitter).
 
 ## Overview

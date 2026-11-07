@@ -4,7 +4,7 @@
   "displayName": "TRExFitter",
   "version": "1.0.0",
   "description": "HistFactory and xRooFit profile likelihood fitting for HEP: configure fits, systematics, unfolding, morphing, limits, and diagnostics.",
-  "logo": "assets/logo.svg",
+  "logo": "assets/TRExFitter_logo.png",
   "suggestedPrompts": [
     "Create a TRExFitter config for a profile likelihood fit with CRs, SRs, and TransfoD auto-binning",
     "Diagnose nuisance parameter pulls, over-constraints, and Asimov convergence in my TRExFitter fit",
