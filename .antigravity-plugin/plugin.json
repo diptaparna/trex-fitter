@@ -1,0 +1,31 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "trex-fitter",
+  "displayName": "TRExFitter",
+  "version": "1.0.0",
+  "description": "HistFactory and xRooFit profile likelihood fitting for HEP: configure fits, systematics, unfolding, morphing, limits, and diagnostics.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Create a TRExFitter config for a profile likelihood fit with CRs, SRs, and TransfoD auto-binning",
+    "Diagnose nuisance parameter pulls, over-constraints, and Asimov convergence in my TRExFitter fit",
+    "Configure two-point generator systematics with ReferenceSample, smoothing, and symmetrisation"
+  ],
+  "author": {
+    "name": "Diptaparna Biswas",
+    "url": "https://github.com/diptaparna"
+  },
+  "homepage": "https://trexfitter-docs.web.cern.ch/trexfitter-docs/latest/",
+  "repository": "https://github.com/diptaparna/trex-fitter",
+  "license": "Apache-2.0",
+  "keywords": [
+    "hep",
+    "atlas",
+    "cern",
+    "trexfitter",
+    "histfactory",
+    "xroofit",
+    "root",
+    "statistics",
+    "unfolding"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "trex-fitter-marketplace",
+  "version": "1.0.0",
+  "description": "TRExFitter statistical inference plugin for High Energy Physics (HistFactory / xRooFit profile likelihood fits, systematics, unfolding, morphing, and CLs limits).",
+  "owner": {
+    "name": "Diptaparna Biswas",
+    "url": "https://github.com/diptaparna"
+  },
+  "plugins": [
+    {
+      "name": "trex-fitter",
+      "displayName": "TRExFitter",
+      "source": ".",
+      "version": "1.0.0",
+      "description": "HistFactory and xRooFit profile likelihood fitting for HEP: configure fits, systematics, unfolding, morphing, limits, and diagnostics.",
+      "author": {
+        "name": "Diptaparna Biswas",
+        "url": "https://github.com/diptaparna"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "hep",
+        "atlas",
+        "cern",
+        "trexfitter",
+        "histfactory",
+        "xroofit",
+        "root",
+        "statistics",
+        "unfolding"
+      ]
+    }
+  ]
+}
